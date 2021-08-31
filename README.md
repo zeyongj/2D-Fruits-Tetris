@@ -14,7 +14,7 @@
 ## Execution
 
 - Compile: `make`.
-- Run: `./FruitTetris3D`.
+- Run: `./FruitTetris`.
 
 ## License
 
