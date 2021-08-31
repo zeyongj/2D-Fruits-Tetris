@@ -11,6 +11,10 @@
 - I try to satisfy the addtional game logic and the certain press operations.
 - I set the executable as "FruitTetris" as the requirement in the instruction.
 
+## Execution
+
+- Compile: `make`.
+- Run: `./FruitTetris3D`.
 
 ## License
 
@@ -19,7 +23,8 @@
     `SPDX-License-Identifier: Apache-2.0-or-later`
 
 ## Reference
-- The codes are inspired and modified from https://github.com/warmblanket/fruitteteris, and I would like express my appreciation to the author.
+- The codes are inspired and modified from https://github.com/warmblanket/fruitteteris.
+- I would like express my appreciation to the author.
 
 ## Disclaimer
 
