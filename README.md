@@ -9,7 +9,7 @@
 - I check whether the stack-up occurs, and determine whether the game need too stop or not.
 - I also consider the problem of key stroke interaction, tile movements and colliding.
 - I try to satisfy the addtional game logic and the certain press operations.
-- I set the executable as "FruitTetris" as the requirement in the instruction.
+- I set the executable as `FruitTetris` as the requirement in the instruction.
 
 ## Execution
 
